@@ -5,12 +5,24 @@
 .u-section-1 .u-image-1 {
   width: 465px;
   height: 400px;
-  margin: 0 auto 37px;
+  margin: 12px 292px 25px auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-image-1 {
     margin-top: 1px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 255px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 75px;
   }
 }
 
@@ -22,5 +34,6 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 292px;
+    margin-right: 0;
   }
 }
