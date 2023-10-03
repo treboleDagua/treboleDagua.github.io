@@ -1,39 +1,47 @@
-.u-section-1 .u-sheet-1 {
-  min-height: 437px;
+ .u-section-1 {
+  background-image: url("images/FB_IMG_1695038309249.jpg");
 }
 
-.u-section-1 .u-image-1 {
-  width: 465px;
-  height: 400px;
-  margin: 12px 292px 25px auto;
+.u-section-1 .u-sheet-1 {
+  min-height: 846px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-image-1 {
-    margin-top: 1px;
+   .u-section-1 {
+    min-height: 305px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 698px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-image-1 {
-    margin-right: 255px;
+   .u-section-1 {
+    min-height: 214px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 535px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-image-1 {
-    margin-right: 75px;
+   .u-section-1 {
+    min-height: 140px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 401px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 329px;
+   .u-section-1 {
+    min-height: 58px;
   }
 
-  .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 292px;
-    margin-right: 0;
+  .u-section-1 .u-sheet-1 {
+    min-height: 252px;
   }
 }
