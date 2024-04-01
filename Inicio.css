@@ -436,13 +436,13 @@
 .u-section-3 .u-icon-1 {
   width: 45px;
   height: 45px;
-  margin: -52px auto 0 30px;
+  margin: -64px auto 0 32px;
   padding: 1px;
 }
 
 .u-section-3 .u-line-3 {
   width: 100px;
-  margin: 39px auto 0;
+  margin: 51px auto 0;
 }
 
 .u-section-3 .u-text-8 {
@@ -572,6 +572,10 @@
     padding: 3px;
   }
 
+  .u-section-3 .u-line-3 {
+    margin-top: 52px;
+  }
+
   .u-section-3 .u-icon-2 {
     margin-left: 47px;
     --animation-custom_in-translate_x: 50px;
@@ -691,12 +695,12 @@
   }
 
   .u-section-3 .u-icon-1 {
-    margin-top: -46px;
+    margin-top: -60px;
     margin-left: 54px;
   }
 
   .u-section-3 .u-line-3 {
-    margin-top: 34px;
+    margin-top: 48px;
   }
 
   .u-section-3 .u-text-8 {
@@ -790,7 +794,7 @@
   }
 
   .u-section-3 .u-line-3 {
-    margin-top: 39px;
+    margin-top: 52px;
   }
 
   .u-section-3 .u-text-8 {
